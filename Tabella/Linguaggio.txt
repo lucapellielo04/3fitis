@@ -1,0 +1,34 @@
+<html>
+ <head>
+  <title>
+   Alunni 3F 2020/2021
+  </title>
+ </head>
+ <body>
+  <table>
+   <tr><td>01 Diego Albertin diego.albertin@iisviolamarchesini.edu.it<a href = "https://www.instagram.com/albertin_diego/"> Instagram</a></td></tr>
+   <tr><td>02 Francesco Di Lena francesco.dilena@iisviolamarchesini.edu.it <a href = "https://www.HTML.it/"> Altro link</a></td></tr>
+   <tr><td>03 Alessio Donini alessio.donini@iisviolamarchesini.edu.it <a href = "https://www.instagram.com/donini_alessio/"> Instagram</a></td></tr>
+   <tr><td>04 Alex Niccolò Ferrari alexniccolo.ferrari@iisviolamarchesini.edu.it <a href = "https://www.instagram.com/alex65ferrari/"> Instagram</a></td></tr>
+   <tr><td>05 Michele Gabrieli michele.gabrieli@iisviolamarchesini.edu.it <a href = "https://www.instagram.com/miky_2510/"> Instagram</a></td></tr>
+   <tr><td>06 Mattia Gallinaro mattia.gallinaro@iisviolamarchesini.edu.it <a href = "https://www.instagram.com/matfour3/"> Instagram</a></td></tr>
+   <tr><td>07 Simone Giuriato simone.giuriato@iisviolamarchesini.edu.it <a href = "https://www.instagram.com/giuriatosimone/"> Instagram</a></td></tr>
+   <tr><td>08 Andrea Lavezzi andrea.lavezzi@iisviolamarchesini.edu.it <a href = "https://www.instagram.com/andrealavezzi9/"> Instagram</a></td></tr>
+   <tr><td>09 Marco Malanchin marco.malanchin@iisviolamarchesini.edu.it <a href = "https://www.instagram.com/marco_malanchin/"> Instagram</a></td></tr>
+   <tr><td>10 Andrea Marchetto andrea.marchetto@iisviolamarchesini.edu.it <a href = "https://www.instagram.com/_marchettoo_/"> Instagram</a></td></tr>
+   <tr><td>11 Giovanni Marchetto giovanni.marchetto@iisviolamarchesini.edu.it <a href = "https://www.instagram.com/gmarck04_/"> Instagram</a></td></tr> 
+   <tr><td>12 Alessio Modonesi alessio.modonesi@iisviolamarchesini.edu.it <a href = "https://www.instagram.com/al3modo/"> Instagram</a></td></tr>
+   <tr><td>13 Christian Mondini christian.mondini@iisviolamarchesini.edu.it <a href = "https://www.instagram.com/christian_mondini/"> Instagram</a></td></tr>
+   <tr><td>14 Matteo Orifiammi matteo.orifiammi@iisviolamarchesini.edu.it <a href = "https://www.instagram.com/orifiammi_matteo/"> Instagram</a></td></tr>
+   <tr><td>15 Angelo Pavan angelo.pavan@iisviolamarchesini.edu.it <a href = "https://www.instagram.com/dynam0_/"> Instagram</a></td></tr>
+   <tr><td>16 Alberto Pavarin alberto.pavarin@iisviolamarchesini.edu.it <a href = "https://www.instagram.com/albi_pavac/"> Instagram</a></td></tr>
+   <tr><td>17 Luca Pellielo luca.pellielo@iisviolamarchesini.edu.it <a href = "https://www.instagram.com/_.lucapelo._/"> Instagram</a></td></tr>
+   <tr><td>18 Matteo Rigolin matteo.rigolin@iisviolamarchesini.edu.it <a href = "https://www.instagram.com/matteo_rigolin_24/"> Instagram</a></td></tr>
+   <tr><td>19 Federico Rossi federico.rossi@iisviolamarchesini.edu.it <a href = "https://www.instagram.com/federico.rossi___/"> Instagram</a></td></tr>
+   <tr><td>20 Lorenzo Stellin lorenzo.stellin@iisviolamarchesini.edu.it <a href = "https://www.instagram.com/lorenzo.stellin/"> Instagram</a></td></tr>
+   <tr><td>21 Enrico Paolo Toso enricopaolo.toso@iisviolamarchesini.edu.it <a href = "https://www.instagram.com/enricotosoo/"> Instagram</a></td></tr>
+   <tr><td>22 Daniel Veronese daniel.veronese@iisviolamarchesini.edu.it <a href = "https://www.instagram.com/dan_y03/"> Instagram</a></td></tr>
+   <tr><td>23 Mattia Zanini mattia.zanini@iisviolamarchesini.edu.it <a href = "https://www.instagram.com/_superf4ng_/"> Instagram</a></td></tr>
+  </table>
+ </body>
+</html>
